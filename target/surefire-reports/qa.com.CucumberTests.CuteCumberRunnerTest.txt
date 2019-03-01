@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
-Test set: qa.com.ExcelTests.ExcelUserTest
+Test set: qa.com.CucumberTests.CuteCumberRunnerTest
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 7.541 sec
+Tests run: 27, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 15.974 sec
