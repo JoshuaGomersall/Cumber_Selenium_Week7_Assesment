@@ -1,0 +1,14 @@
+qa\com\CucumberTests\CuteCumberRunner.class
+Websites\JenkinsHomePage.class
+Websites\UserPAGE.class
+Websites\LoginPage.class
+Websites\MakeUsers.class
+Websites\MakingFreestylepage.class
+Websites\ManageUsers.class
+Websites\UserConfigPage.class
+Websites\NewTaskPage.class
+Websites\Constants.class
+Websites\PostSavePage.class
+qa\com\ExcelTests\ExcelUserTest.class
+qa\com\JunitTests\JUnitTest.class
+Websites\ManageJenkins.class
