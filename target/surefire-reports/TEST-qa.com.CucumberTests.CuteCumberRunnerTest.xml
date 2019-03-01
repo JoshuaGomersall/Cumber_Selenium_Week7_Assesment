@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="27" failures="0" name="qa.com.CucumberTests.CuteCumberRunnerTest" time="1.742" errors="0" skipped="0">
+<testsuite tests="27" failures="0" name="qa.com.CucumberTests.CuteCumberRunnerTest" time="1.733" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_144\jre\bin"/>
@@ -78,7 +78,7 @@
   <testcase classname="| http://35.189.113.118:8080/securityRealm/ | chrisp | ChrisPy |" name="And I click save button" time="0"/>
   <testcase classname="| http://35.189.113.118:8080/securityRealm/ | chrisp | ChrisPy |" name="And I click on People link" time="0"/>
   <testcase classname="| http://35.189.113.118:8080/securityRealm/ | chrisp | ChrisPy |" name="Then the new fullname &quot;ChrisPy&quot; should be visible for the username &quot;chrisp&quot;" time="0"/>
-  <testcase classname="| http://35.189.113.118:8080/securityRealm/ | chrisp | ChrisPy |" name="| http://35.189.113.118:8080/securityRealm/ | chrisp | ChrisPy |" time="0.578"/>
+  <testcase classname="| http://35.189.113.118:8080/securityRealm/ | chrisp | ChrisPy |" name="| http://35.189.113.118:8080/securityRealm/ | chrisp | ChrisPy |" time="0.579"/>
   <testcase classname="| http://35.189.113.118:8080/securityRealm/ | chez | moouuuw |" name="Given I go to &quot;http://35.189.113.118:8080/securityRealm/&quot; website" time="0"/>
   <testcase classname="| http://35.189.113.118:8080/securityRealm/ | chez | moouuuw |" name="And the username is present &quot;chez&quot;" time="0"/>
   <testcase classname="| http://35.189.113.118:8080/securityRealm/ | chez | moouuuw |" name="When I click on username &quot;chez&quot;" time="0"/>
@@ -86,6 +86,6 @@
   <testcase classname="| http://35.189.113.118:8080/securityRealm/ | chez | moouuuw |" name="And change the current fullname to new a new fullname &quot;moouuuw&quot;" time="0"/>
   <testcase classname="| http://35.189.113.118:8080/securityRealm/ | chez | moouuuw |" name="And I click save button" time="0"/>
   <testcase classname="| http://35.189.113.118:8080/securityRealm/ | chez | moouuuw |" name="And I click on People link" time="0"/>
-  <testcase classname="| http://35.189.113.118:8080/securityRealm/ | chez | moouuuw |" name="Then the new fullname &quot;moouuuw&quot; should be visible for the username &quot;chez&quot;" time="0"/>
-  <testcase classname="| http://35.189.113.118:8080/securityRealm/ | chez | moouuuw |" name="| http://35.189.113.118:8080/securityRealm/ | chez | moouuuw |" time="0.582"/>
+  <testcase classname="| http://35.189.113.118:8080/securityRealm/ | chez | moouuuw |" name="Then the new fullname &quot;moouuuw&quot; should be visible for the username &quot;chez&quot;" time="0.001"/>
+  <testcase classname="| http://35.189.113.118:8080/securityRealm/ | chez | moouuuw |" name="| http://35.189.113.118:8080/securityRealm/ | chez | moouuuw |" time="0.571"/>
 </testsuite>
